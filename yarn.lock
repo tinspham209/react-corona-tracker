@@ -3175,10 +3175,10 @@ cosmiconfig@^6.0.0:
     path-type "^4.0.0"
     yaml "^1.7.2"
 
-countup.js@^1.9.3:
-  version "1.9.3"
-  resolved "https://registry.yarnpkg.com/countup.js/-/countup.js-1.9.3.tgz#ce3e50cd7160441e478f07da31895edcc0f1c9dd"
-  integrity sha1-zj5QzXFgRB5HjwfaMYle3MDxyd0=
+countup.js@^2.8.0:
+  version "2.9.0"
+  resolved "https://registry.yarnpkg.com/countup.js/-/countup.js-2.9.0.tgz#599e6482e502e5e3f00f8816637120c9b21856ed"
+  integrity sha512-llqrvyXztRFPp6+i8jx25phHWcVWhrHO4Nlt0uAOSKHB8778zzQswa4MU3qKBvkXfJKftRYFJuVHez67lyKdHg==
 
 create-ecdh@^4.0.0:
   version "4.0.3"
@@ -8731,14 +8731,12 @@ react-chartjs-2@^2.9.0:
     lodash "^4.17.19"
     prop-types "^15.7.2"
 
-react-countup@^4.3.3:
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/react-countup/-/react-countup-4.4.0.tgz#ca5c0a971c442a06a7bc52f3921ad2e66ba65990"
-  integrity sha512-PSSpvRT5FCjCVh3NzPpz/SgeG8b9LnpfCSO1TEMK8K/GhmxI+s8D/KbxGCFsmmeq+Y0cnf2KepUHssPfH/7iyw==
+react-countup@^6.0.0:
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/react-countup/-/react-countup-6.5.3.tgz#e892aa3eab2d6ba9c3cdba30bf4ed6764826d848"
+  integrity sha512-udnqVQitxC7QWADSPDOxVWULkLvKUWrDapn5i53HE4DPRVgs+Y5rr4bo25qEl8jSh+0l2cToJgGMx+clxPM3+w==
   dependencies:
-    countup.js "^1.9.3"
-    prop-types "^15.7.2"
-    warning "^4.0.3"
+    countup.js "^2.8.0"
 
 react-dev-utils@^10.2.1:
   version "10.2.1"
@@ -10597,13 +10595,6 @@ walker@^1.0.7, walker@~1.0.5:
   integrity sha1-L3+bj9ENZ3JisYqITijRlhjgKPs=
   dependencies:
     makeerror "1.0.x"
-
-warning@^4.0.3:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/warning/-/warning-4.0.3.tgz#16e9e077eb8a86d6af7d64aa1e05fd85b4678ca3"
-  integrity sha512-rpJyN222KWIvHJ/F53XSZv0Zl/accqHR8et1kpaMTD/fLCRxtV8iX8czMzY7sVZupTI3zcUTg8eycS2kNF9l6w==
-  dependencies:
-    loose-envify "^1.0.0"
 
 watchpack@^1.6.0:
   version "1.6.0"
